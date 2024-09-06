@@ -1,0 +1,20 @@
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).exe.config
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).exe
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).pdb
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.AssemblyReference.cache
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1_coursewk_.Properties.Resources.resources
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.GenerateResource.cache
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.CoreCompileInputs.cache
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).exe
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).pdb
+C:\Users\Aaron Patterson\source\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1_coursewk_.VendingMachine.resources
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).exe.config
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).exe
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\bin\Debug\WindowsFormsApp1(coursewk).pdb
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.AssemblyReference.cache
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1_coursewk_.VendingMachine.resources
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1_coursewk_.Properties.Resources.resources
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.GenerateResource.cache
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).csproj.CoreCompileInputs.cache
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).exe
+C:\Users\Aaron Patterson\Desktop\DATA BACKUP\OneDrive\Desktop\University\year 2\repos\WindowsFormsApp1(coursewk)\WindowsFormsApp1(coursewk)\obj\Debug\WindowsFormsApp1(coursewk).pdb
